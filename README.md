@@ -135,8 +135,6 @@ https://www.ivandroandrade.xyz
 📧 Email:
 ivandrolive123@gmail.com
 
-🐙 GitHub:
-https://github.com/AndradeIvo
 
 ---
 
