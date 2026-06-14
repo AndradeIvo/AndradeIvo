@@ -13,7 +13,7 @@ My goal is to build reliable and efficient systems that bridge the gap between h
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndradeIvo&layout=compact&theme=tokyonight&hide_border=true" />
   <img height="170" src="https://streak-stats.demolab.com?user=AndradeIvo&theme=tokyonight&hide_border=true" />
 </p>
----
+
 ## 💻 Languages & Firmware
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
