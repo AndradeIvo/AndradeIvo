@@ -2,11 +2,13 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=1000&lines=Embedded+Systems+Engineer;Firmware+Developer;Industrial+IoT+Solutions;ESP32+%7C+Raspberry+Pi+%7C+PLC;Automation+%26+Control+Systems" />
 </p>
+
 I'm an Electrical and Telecommunications Engineer passionate about Embedded Systems, Firmware Development, Industrial IoT, and Automation.
 
 Currently working with industrial monitoring, gas and fire detection systems (SADG/SADI), developing solutions that combine electronics, firmware, industrial communications, and real-time data processing.
 
 My goal is to build reliable and efficient systems that bridge the gap between hardware and software.
+
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AndradeIvo&show_icons=true&theme=dark)   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AndradeIvo&layout=compact&theme=dark)
 
