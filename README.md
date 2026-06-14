@@ -114,4 +114,8 @@ ivandrolive123@gmail.com
 
 ---
 
-> "Transforming ideas into intelligent solutions through Embedded Systems, Firmware, and Industrial IoT."
+ "Transforming ideas into intelligent solutions through Embedded Systems, Firmware, and Industrial IoT."
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AndradeIvo/AndradeIvo/output/gh-space-shooter.gif" alt="GitHub Space Shooter" />
+</p>
