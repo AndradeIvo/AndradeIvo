@@ -9,11 +9,10 @@ Currently working with industrial monitoring, gas and fire detection systems (SA
 My goal is to build reliable and efficient systems that bridge the gap between hardware and software.
 
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AndradeIvo&layout=compact&theme=dark)
-   <p align="center">
-  <img src="https://streak-stats.demolab.com?user=AndradeIvo&theme=tokyonight&hide_border=true" />
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndradeIvo&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://streak-stats.demolab.com?user=AndradeIvo&theme=tokyonight&hide_border=true" />
 </p>
-
 ---
 ## 💻 Languages & Firmware
 
