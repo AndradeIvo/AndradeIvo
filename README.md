@@ -20,35 +20,22 @@ My goal is to build reliable and efficient systems that bridge the gap between h
 
 ## 🔧 Technologies & Tools
 
-### 🔌Embedded Systems & Electronics
+## 🔌Embedded Systems & Electronics
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
 ![PlatformIO](https://img.shields.io/badge/PlatformIO-F5822A?style=for-the-badge&logo=platformio&logoColor=white)
 
-### Industrial Automation
-- PLC Schneider 
-- EcoStruxure Machine Expert Basic
-- TwidoSuite
-- Industrial Networks
-- RS-485 Communication
-- HMI Development
+## ⚙️ Industrial Automation
+![Modbus](https://img.shields.io/badge/Modbus-005CA9?style=for-the-badge)
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white)
+![Node-RED](https://img.shields.io/badge/Node--RED-8F0000?style=for-the-badge&logo=nodered&logoColor=white)
 
-### IoT & Monitoring
-- Node-RED
-- Mosquitto MQTT
-- InfluxDB
-- Grafana
-- Docker
-- REST APIs
-
-### Software & Web
-- Python
-- HTML
-- CSS
-- JavaScript
-- Git
-- GitHub
+## ☁️ IoT & Monitoring
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=influxdb&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Mosquitto](https://img.shields.io/badge/Mosquitto-3C5280?style=for-the-badge)
 
 ---
 
