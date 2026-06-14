@@ -1,4 +1,4 @@
-# Hi there, I'm Ivo Andrade 👋
+# Hi there, I'm Ivandro Andrade 👋
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=1000&lines=Embedded+Systems+Engineer;Firmware+Developer;Industrial+IoT+Solutions;ESP32+%7C+Raspberry+Pi+%7C+PLC;Automation+%26+Control+Systems" />
 </p>
