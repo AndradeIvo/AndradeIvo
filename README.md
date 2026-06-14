@@ -8,7 +8,17 @@ Currently working with industrial monitoring, gas and fire detection systems (SA
 
 My goal is to build reliable and efficient systems that bridge the gap between hardware and software.
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AndradeIvo&show_icons=true&theme=dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AndradeIvo&layout=compact&theme=dark)
+
 ---
+## 💻 Languages & Firmware
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ## 🔧 Technologies & Tools
 
@@ -23,7 +33,7 @@ My goal is to build reliable and efficient systems that bridge the gap between h
 - MQTT
 
 ### Industrial Automation
-- PLC Schneider TM221
+- PLC Schneider 
 - EcoStruxure Machine Expert Basic
 - TwidoSuite
 - Industrial Networks
@@ -45,14 +55,6 @@ My goal is to build reliable and efficient systems that bridge the gap between h
 - JavaScript
 - Git
 - GitHub
-
-### Networking
-- OSPF
-- HSRP
-- VLANs
-- NAT/PAT
-- IPSec VPN
-- Cisco Packet Tracer
 
 ---
 
@@ -112,13 +114,6 @@ Projects involving:
 - Edge Computing
 - Industrial Communications
 
----
-
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AndradeIvo&show_icons=true&theme=dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AndradeIvo&layout=compact&theme=dark)
 
 ---
 
