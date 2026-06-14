@@ -8,7 +8,7 @@ Currently working with industrial monitoring, gas and fire detection systems (SA
 
 My goal is to build reliable and efficient systems that bridge the gap between hardware and software.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AndradeIvo&show_icons=true&theme=dark) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AndradeIvo&layout=compact&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AndradeIvo&show_icons=true&theme=dark)   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AndradeIvo&layout=compact&theme=dark)
 
 ---
 ## 💻 Languages & Firmware
@@ -20,15 +20,11 @@ My goal is to build reliable and efficient systems that bridge the gap between h
 
 ## 🔧 Technologies & Tools
 
-### Embedded Systems & Electronics
-- ESP32
-- Arduino
-- Raspberry Pi
-- C / C++
-- PlatformIO
-- UART, I2C, SPI
-- Modbus RTU / TCP
-- MQTT
+### 🔌Embedded Systems & Electronics
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
+![PlatformIO](https://img.shields.io/badge/PlatformIO-F5822A?style=for-the-badge&logo=platformio&logoColor=white)
 
 ### Industrial Automation
 - PLC Schneider 
