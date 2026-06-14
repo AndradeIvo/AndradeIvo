@@ -11,6 +11,7 @@ My goal is to build reliable and efficient systems that bridge the gap between h
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndradeIvo&layout=compact&theme=tokyonight&hide_border=true" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img height="170" src="https://streak-stats.demolab.com?user=AndradeIvo&theme=tokyonight&hide_border=true" />
 </p>
 
