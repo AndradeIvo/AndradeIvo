@@ -4,93 +4,56 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=1000&lines=Embedded+Systems+Engineer;Firmware+Developer;Industrial+IoT+Solutions;ESP32+%7C+Raspberry+Pi+%7C+PLC;Automation+%26+Control+Systems" />
 </p>
 
----
-
 ## 🚀 About Me
 
-Electrical and Telecommunications Engineer passionate about Embedded Systems, Firmware Development, Industrial IoT, and Automation.
+I'm an Electrical and Telecommunications Engineer passionate about Embedded Systems, Firmware Development, Industrial IoT, and Automation.
 
-Currently working with industrial gas and fire detection systems (SADG/SADI), integrating electronics, firmware, industrial communications, and real-time monitoring platforms.
+Currently working with industrial monitoring, gas and fire detection systems (SADG/SADI), developing solutions that combine electronics, firmware, industrial communications, and real-time data processing.
 
-My goal is to design reliable embedded solutions that bridge hardware and software, transforming ideas into intelligent systems.
+My goal is to build reliable and efficient systems that bridge the gap between hardware and software.
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AndradeIvo&show_icons=true&theme=dark)   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AndradeIvo&layout=compact&theme=dark)
 
 ---
+## 💻 Languages & Firmware
 
-## 🛠️ Tech Stack
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### 💻 Programming Languages
+## 🔧 Technologies & Tools
 
-<p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,javascript" />
-</p>
+## 🔌Embedded Systems & Electronics
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
+![PlatformIO](https://img.shields.io/badge/PlatformIO-F5822A?style=for-the-badge&logo=platformio&logoColor=white)
 
-### 🔌 Embedded Systems
+## ⚙️ Industrial Automation
+![Modbus](https://img.shields.io/badge/Modbus-005CA9?style=for-the-badge)
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white)
+![Node-RED](https://img.shields.io/badge/Node--RED-8F0000?style=for-the-badge&logo=nodered&logoColor=white)
 
-<p>
-  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi" />
-</p>
-
-- ESP32
-- PlatformIO
-- UART
-- SPI
-- I2C
-- MQTT
-- Modbus RTU/TCP
-
-### ⚙️ Industrial Automation
-
-- Schneider PLC (TM221)
-- EcoStruxure Machine Expert Basic
-- TwidoSuite
-- HMI Development
-- RS-485 Communication
-- Industrial Monitoring
-- Process Automation
-
-### ☁️ IoT & Monitoring
-
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,git,github,vscode" />
-</p>
-
-- Node-RED
-- Mosquitto MQTT
-- InfluxDB
-- Grafana
-- REST APIs
-
-### 🌐 Networking
-
-- OSPF
-- HSRP
-- VLANs
-- NAT/PAT
-- IPSec VPN
-- Cisco Packet Tracer
+## ☁️ IoT & Monitoring
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=influxdb&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Mosquitto](https://img.shields.io/badge/Mosquitto-3C5280?style=for-the-badge)
 
 ---
 
 ## 📌 Featured Projects
 
 ### 🌱 TrackFood
-
 Smart IoT-based agricultural monitoring and irrigation platform.
 
-**Technologies**
+**Technologies:**
+ESP32, MQTT, Node-RED, Docker, InfluxDB, Grafana, OpenWeather API
 
-- ESP32
-- MQTT
-- Node-RED
-- Docker
-- InfluxDB
-- Grafana
-- OpenWeather API
-
-**Features**
-
+**Features:**
 - Soil moisture monitoring
-- Air temperature and humidity monitoring
+- Temperature & humidity monitoring
 - Automatic irrigation control
 - Weather forecast integration
 - Real-time dashboard
@@ -102,21 +65,15 @@ Smart IoT-based agricultural monitoring and irrigation platform.
 
 Industrial gas detection monitoring solution.
 
-**Technologies**
+**Technologies:**
+Raspberry Pi 5, Modbus RS-485, Node-RED, InfluxDB, Docker
 
-- Raspberry Pi 5
-- Modbus RS-485
-- Node-RED
-- InfluxDB
-- Docker
-
-**Features**
-
-- Real-time gas detector monitoring
+**Features:**
+- Real-time sensor monitoring
 - Alarm and fault management
-- Historical event logging
+- Historical event storage
+- Web dashboard
 - Industrial communication integration
-- Web-based monitoring dashboard
 
 ---
 
@@ -124,36 +81,11 @@ Industrial gas detection monitoring solution.
 
 Projects involving:
 
-- PLC Programming
-- HMI Development
-- Industrial Networks
-- Process Automation
-- Monitoring & Control Systems
-
----
-
-## 🎮 GitHub Space Shooter
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AndradeIvo/AndradeIvo/main/gh-space-shooter.gif" />
-</p>
-
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=AndradeIvo&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndradeIvo&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🔥 Contribution Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=AndradeIvo&theme=tokyonight&hide_border=true" />
-</p>
+- PLC programming
+- HMI development
+- Industrial communications
+- Process automation
+- Monitoring and control systems
 
 ---
 
@@ -162,29 +94,34 @@ Projects involving:
 - Embedded Systems
 - Firmware Development
 - Industrial IoT
-- Electronics Engineering
-- Automation & Control Systems
-- Industrial Communications
+- Electronics Design
+- Industrial Automation
 - Edge Computing
+- Industrial Communications
+
 
 ---
 
 ## 🌐 Connect With Me
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/ivandroandrade">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+📍 Lisbon, Portugal
 
-  <a href="https://www.ivandroandrade.xyz">
-    <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-  </a>
+💼 LinkedIn:
+www.linkedin.com/in/ivandroandrade
 
-  <a href="mailto:ivandrolive123@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+🌐 Portfolio:
+https://www.ivandroandrade.xyz
+
+📧 Email:
+ivandrolive123@gmail.com
+
 
 ---
 
-> **Transforming ideas into intelligent solutions through Embedded Systems, Firmware, Industrial IoT, and Automation.**
+ "Transforming ideas into intelligent solutions through Embedded Systems, Firmware, and Industrial IoT."
+
+## 🎮 GitHub Contributions
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AndradeIvo/AndradeIvo/main/gh-space-shooter.gif" alt="GitHub Space Shooter" />
+</p>
