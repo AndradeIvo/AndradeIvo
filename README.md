@@ -28,8 +28,12 @@ My goal is to build reliable and efficient systems that bridge the gap between h
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
 ![PlatformIO](https://img.shields.io/badge/PlatformIO-F5822A?style=for-the-badge&logo=platformio&logoColor=white)
 
-## 🌐 Industrial Communication
+## 🌐 Communication Protocols
 
+![UART](https://img.shields.io/badge/UART-2E86C1?style=for-the-badge)
+![SPI](https://img.shields.io/badge/SPI-8E44AD?style=for-the-badge)
+![I2C](https://img.shields.io/badge/I2C-27AE60?style=for-the-badge)
+![CAN](https://img.shields.io/badge/CAN-F39C12?style=for-the-badge)
 ![Modbus](https://img.shields.io/badge/Modbus-005CA9?style=for-the-badge)
 ![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white)
 
